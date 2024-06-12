@@ -6,3 +6,5 @@ A pong game made using C# and Monogame
 `Arrow Keys`: Move Player 2<br/>
 `Esc`: Pause<br/>
 `Q`: Quit<br/>
+
+![pong](pong.png)
